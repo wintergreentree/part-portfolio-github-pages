@@ -1,8 +1,6 @@
----
-title: A starting collection of projects for your viewing pleasure.
----
+# Project Collection.
 
-If you've read the title, it's pretty self-explanatory. Here you'll find a list of projects I can't host on Google Drive. Click on any project to beging exploring :).
+Its pretty self-explanatory. Here you'll find a collection of projects I can't host on Google Drive. Click on any project to beging exploring :).
 
 ## Projects (WIP)
 
